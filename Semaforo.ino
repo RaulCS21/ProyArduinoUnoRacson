@@ -1,6 +1,6 @@
- const int LED_ROJO 		= 5;
- const int LED_AMARILLO 	= 6;
- const int LED_VERDE		= 7;
+int LED_ROJO 		    = 5;
+int LED_AMARILLO     = 6;
+int LED_VERDE		    = 7;
 
 void setup() {
    	pinMode(LED_ROJO, OUTPUT);
